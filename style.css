@@ -4,7 +4,7 @@ body {
   color: #244763;
 }
 
-a {
+a, a:visited {
   color: #871e1e;
 }
 
