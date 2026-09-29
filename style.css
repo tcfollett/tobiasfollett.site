@@ -13,6 +13,13 @@ nav {
   text-align: center;
 }
 
+.index {
+  text-align: center;
+  max-width: 500px;
+  margin: 50vh auto 0;
+  transform: translateY(-50%);
+}
+
 .about {
     text-align: center;
     max-width: 500px;
