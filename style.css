@@ -22,7 +22,6 @@ body {
   background: var(--beige);
   color: var(--black);
 
-  font-family: Georgia, "Times New Roman", serif;
   font-size: 16px;
   line-height: 1.6;
 }
