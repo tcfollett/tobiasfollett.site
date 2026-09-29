@@ -1,0 +1,14 @@
+body {
+  background: #f3ede2;
+  color: #171717;
+  margin: 40px;
+}
+
+a {
+  color: #172a35;
+}
+
+h1,
+nav {
+  text-align: center;
+}
